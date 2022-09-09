@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "lib": ["ES2020", "DOM"],
+    "target": "ES2020",
+    "module": "esNext",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "strict": true,
+  }
+}
